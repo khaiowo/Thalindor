@@ -1,10 +1,10 @@
-# Magic System & Energy Sources in Elyndros
+# Magic System & Energy Sources in Thalindor
 
 Owner: Phntm Drknss
 
-### **1. Overview of Magic in Elyndros**
+### **1. Overview of Magic in Thalindor**
 
-In **Elyndros**, magic is not merely a mystical force but an intrinsic part of the world’s fabric. It’s woven into the very core of **nature**, **fate**, and **reality** itself, with various sources and methods of manipulation. Magic is both a gift and a dangerous force, governed by laws, rituals, and energies that can be exploited or corrupted.
+In **Thalindor**, magic is not merely a mystical force but an intrinsic part of the world’s fabric. It’s woven into the very core of **nature**, **fate**, and **reality** itself, with various sources and methods of manipulation. Magic is both a gift and a dangerous force, governed by laws, rituals, and energies that can be exploited or corrupted.
 
 ### **Key Principles**
 
@@ -58,7 +58,7 @@ In **Elyndros**, magic is not merely a mystical force but an intrinsic part of t
 
 ---
 
-### **3. Energy Sources in Elyndros**
+### **3. Energy Sources in Thalindor**
 
 ### **A. The Weave (Tylashir’s Realm)**
 
@@ -72,7 +72,7 @@ In **Elyndros**, magic is not merely a mystical force but an intrinsic part of t
 
 ### **C. Divine Energy (The Pantheon)**
 
-- **Description**: The gods of Elyndros bestow their followers with divine power. This energy is pure and untainted by the forces of chaos. It is a direct conduit from the **divine realm** and is often associated with specific **deities**.
+- **Description**: The gods of Thalindor bestow their followers with divine power. This energy is pure and untainted by the forces of chaos. It is a direct conduit from the **divine realm** and is often associated with specific **deities**.
 - **Impact**: Divine magic can be **disrupted** by the whims of the gods or divine wars. When a god withdraws their power or dies, the energy tied to their domain fades, causing the collapse of religious structures.
 
 ### **D. Shadow Realm (Void Magic)**
@@ -92,4 +92,4 @@ In **Elyndros**, magic is not merely a mystical force but an intrinsic part of t
 - **Ritual Requirements**: High-level spells often require **rituals** that take a long time to prepare. This might include drawing intricate runes, aligning objects or forces, or performing sacrifices. These rituals come with heavy costs, often taking lives, rare materials, or forcing the caster to endure personal sacrifice.
 - **Magical Imbalance**: Magic, when used in excess, can disturb the **natural balance** of the world. This can manifest in phenomena like **magical storms**, **time fractures**, or **summoning aberrations** from other planes. It is important for magic users to understand the **consequences** of their actions, especially those wielding powerful forms like **Elemental Magic** or **Arcane Magic**.
 - **Divine Will**: **Divine magic** is directly linked to a deity’s favor and alignment with the caster’s actions. Using divine magic to commit acts against a deity’s domain can cause the caster to **lose favor** or even **become cursed** by the gods. In extreme cases, a divine caster can be **struck down** or **driven mad**.
-- **Magical Containment**: Certain areas in Elyndros, such as **ancient temples** or **void-touched locations**, may contain **anti-magic fields** or zones where magic does not function. These zones limit or completely **nullify** the effects of magic, creating a dangerous environment for any magic-wielding practitioner.
+- **Magical Containment**: Certain areas in Thalindor, such as **ancient temples** or **void-touched locations**, may contain **anti-magic fields** or zones where magic does not function. These zones limit or completely **nullify** the effects of magic, creating a dangerous environment for any magic-wielding practitioner.
