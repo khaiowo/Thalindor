@@ -1,10 +1,10 @@
-# Technology in elyndros
+# Technology in Thalindor
 
 Owner: Phntm Drknss
 
 ---
 
-Despite being a world of sorcery, titans, and divine forces, Elyndros is not without its own technological marvels—though its development is wildly uneven across regions. The fusion of magic and machine has produced astonishing results in some places and terrifying horrors in others.
+Despite being a world of sorcery, titans, and divine forces, Thalindor is not without its own technological marvels—though its development is wildly uneven across regions. The fusion of magic and machine has produced astonishing results in some places and terrifying horrors in others.
 
 ---
 1. Key Technological Regions
@@ -23,7 +23,7 @@ Core Focus: Bio-metal engineering, living constructs, soul-machine synthesis.
 Unique Trait: The Ferrumkin are themselves a technological race—ancient artificial beings refined over millennia. Their technology is self-repairing, memory-linked, and often semi-sentient.
 
 ---
-2. Common Technologies Across Elyndros
+2. Common Technologies Across Thalindor
 Soul-Infused Cores: Used to power machinery, tools, or weapons with latent magical essence. Also functions as a currency.
 Rune-Tech Interfaces: Magical runes embedded into machines allow non-mages to operate enchanted tools.
 Alchemical Pistons: Hybrid tools that use pressure and elemental catalysts to generate kinetic force—common in siege weapons.
