@@ -1,9 +1,9 @@
-# Legends & Prophecies in Elyndros
+# Legends & Prophecies in Thalindor
 
 Owner: Phntm Drknss
 
 1. Prophecy of the Broken Sky
-One of the oldest and most mysterious prophecies in Elyndros, spoken in fragmented verses and spread across various ancient ruins and temples. It is said that a day will come when the sky itself fractures, and from the rift, an ancient terror—one thought to be long dead—will emerge. This event is believed to mark the return of Threnozar, the God of Stillness and Ends, or another entity of his ilk, bringing time to a halt.
+One of the oldest and most mysterious prophecies in Thalindor, spoken in fragmented verses and spread across various ancient ruins and temples. It is said that a day will come when the sky itself fractures, and from the rift, an ancient terror—one thought to be long dead—will emerge. This event is believed to mark the return of Threnozar, the God of Stillness and Ends, or another entity of his ilk, bringing time to a halt.
 Key Players: This prophecy involves the Aurum Circle, who have studied the fragments and fear that the rift could either reorder or destroy time itself.Their legendary hero is Mira Valeheart, The Platinum Saint—a paragon of soul-alchemy who forged harmony between body, spirit, and arcane metal.
 Impact: Many believe Doki, having killed Threnozar, plays a pivotal role in either stopping or hastening this calamity.
 
@@ -27,7 +27,7 @@ Impact: The Emberborn could bring an age of purifying fire or catastrophic destr
 
 ---
 5. The Silent Song
-A rare prophecy guarded by the Hollowlight Archive. It speaks of a song older than words, sung by one who bears no voice or past. It is said to contain truths that unravel gods and rewrite the origins of Elyndros.
+A rare prophecy guarded by the Hollowlight Archive. It speaks of a song older than words, sung by one who bears no voice or past. It is said to contain truths that unravel gods and rewrite the origins of Thalindor.
 Key Players: Tholun Dreadscribe, a lorebound prophet who sealed away a god’s whisper in living ink upon his own skin, gave his body to the Archive as a vessel of silence.
 Impact: Should this song be heard, it could reveal forbidden truths and awaken sealed gods best left forgotten.
 
@@ -41,7 +41,7 @@ Impact: This prophecy could freeze the land and awaken the dead, unless the Fros
 7. The Sigil's Last Echo
 A prophecy held in hushed tones by the Shardbound Covenant. It foretells the day when a living prison of forbidden spells—Auri of the Living Sigil—shall either break or be broken. When that happens, reality itself may tear.
 Key Players: Auri, a spellwright prodigy whose body became a prison of forbidden spells, never broken. Her existence is both a miracle and a curse, bound by sigils she carved into herself.
-Impact: The resulting chaos could erase or reshape the arcane foundations of Elyndros.
+Impact: The resulting chaos could erase or reshape the arcane foundations of Thalindor.
 
 ---
 8. The Word That Ends Worlds
@@ -50,7 +50,7 @@ Key Players: Siva Voidtongue, a cursed war-singer who speaks damnation into the 
 Impact: If her voice ever escapes again, the fabric of existence itself may fray.
 
 ---
-Legendary Heroes of the Elyndros Factions
+Legendary Heroes of the Thalindor Factions
 1. Aurum Circle – Mira Valeheart, The Platinum Saint: A paragon of soul-alchemy who forged harmony between body, spirit, and arcane metal.
 
 2. Verdant Oath – Korghul the Redhorn: A primal juggernaut who once wrestled a worldroot beast bare-handed to protect sacred groves.
@@ -67,9 +67,9 @@ Legendary Heroes of the Elyndros Factions
 
 8. Abyssal Conflux – Siva Voidtongue: A cursed war-singer who speaks damnation into the hearts of gods and demons alike.
 
-# Where Are They Now? The Living Legends of Elyndros
+# Where Are They Now? The Living Legends of Thalindor
 
-Despite the passing of eras, the legendary heroes of Elyndros did not fade into history—they endure, walk among the factions they once helped shape, or wander the world as myths made flesh. Whether through divine blessing, arcane preservation, or sheer defiance of time, they are still alive, their influence looming large.
+Despite the passing of eras, the legendary heroes of Thalindor did not fade into history—they endure, walk among the factions they once helped shape, or wander the world as myths made flesh. Whether through divine blessing, arcane preservation, or sheer defiance of time, they are still alive, their influence looming large.
 
 1. Mira Valeheart (Aurum Circle)Now the elusive Grand Artifex Emerita, Mira resides in a soul-forged sanctum beyond time, occasionally appearing to teach lost techniques or intervene in crises that threaten the soul-weave. Her presence is rare—but unmistakable.
 
