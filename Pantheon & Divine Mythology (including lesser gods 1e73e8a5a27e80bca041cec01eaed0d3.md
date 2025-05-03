@@ -75,7 +75,7 @@ Owner: Phntm Drknss
 
 ### **3. Divine Politics and Conflicts**
 
-The gods of Elyndros are not static figures. They are actively involved in the world, wielding **immense power** over their domains and influencing mortal affairs. **Divine politics** play a key role in shaping the conflicts between mortals, and rivalries between deities often spill over into the mortal realm.
+The gods of Thalindor are not static figures. They are actively involved in the world, wielding **immense power** over their domains and influencing mortal affairs. **Divine politics** play a key role in shaping the conflicts between mortals, and rivalries between deities often spill over into the mortal realm.
 
 - **Aelyndor vs. Vhalor**: The eternal conflict between light and chaos is a central theme in divine politics. Aelyndor, representing order and justice, often finds himself in opposition to Vhalor, whose storms and unpredictable nature threaten stability.
 - **Tylashir’s Neutrality**: Tylashir, goddess of fate, stands as a **mediator** between opposing forces. While her **neutral stance** gives her a sense of balance, it also places her in precarious positions where gods with extreme ideals (like Aelyndor and Vhalor) may seek to sway her decisions.
@@ -83,7 +83,7 @@ The gods of Elyndros are not static figures. They are actively involved in the w
 
 ---
 
-### **4. Divine Influence on Elyndros**
+### **4. Divine Influence on Thalindor**
 
 - **Aelyndor’s Followers** often build **holy cities**, strongholds of light, and promote laws of justice.
 - **Vhalor’s Influence** can be seen in the **wildlands**, where nomadic tribes live according to his chaotic ideals.
