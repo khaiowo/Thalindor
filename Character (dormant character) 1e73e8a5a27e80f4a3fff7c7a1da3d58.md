@@ -7,7 +7,7 @@ Owner: Phntm Drknss
 1. Vhar’Kanoth, the Vault-Binder
 Domain: Forbidden Knowledge, Arcane Seals, Cosmic LocksStatus: Dormant, buried beneath the Shardbound SanctumNature: Arcane titan once bound to prevent mortals from unlocking “Worldbreaking Rites.”Description:Vhar’Kanoth was once the celestial jailor who sealed knowledge too dangerous for the gods, let alone mortals. With runes etched across a body of living crystal and chains made from time-frozen paradox, he fell into slumber after sealing the last "Unword" beneath the Veins of Gaia. He stirs only when something long-forbidden is spoken again.
 Legends Say:
-His awakening would unravel every spell and lock across Elyndros.
+His awakening would unravel every spell and lock across Thalindor.
 He remembers every secret ever sealed—especially those the gods fear.
 He can only be awakened by one who unknowingly speaks the Forgotten Name.
 
@@ -22,7 +22,7 @@ Her return would herald the rekindling of all lost memories—and the death of t
 3. The Veiled Weaver
 Domain: Fate, Time, DestinyStatus: Dormant, residing in the spaces between realmsNature: A mysterious entity said to pull the strings of fate, unseen and untouchable.Description:Known only through hushed whispers and fragmented prophecies, the Veiled Weaver is said to bind destinies together in a web of unknown purpose. It does not intervene directly but guides events from behind the veil of reality. Many believe it is neither a god nor a mortal but something beyond both, existing in the spaces between worlds.
 Legends Say:
-It once guided the greatest heroes of Elyndros, shaping their destinies for a purpose none can understand.
+It once guided the greatest heroes of Thalindor, shaping their destinies for a purpose none can understand.
 Its return would bring the final threads of fate into a singular point of convergence, altering the world's future irreparably.
 
 ---
@@ -43,14 +43,14 @@ It is said that he can only be awakened by a being so pure of intent, they can b
 6. Seralya the First Flame
 Domain: Fire, Purification, DestructionStatus: Dormant, trapped in a sunstoneNature: The origin of the fire spirits, her flame embodies both destruction and rebirth.Description:Seralya was the first fireborn spirit, and she lit the eternal pyres of the Choir of Ash. Her essence was sealed inside a sunstone long ago, and though her flame burns eternally, it cannot be unleashed. Her return would either purify the world in a cleansing fire or burn it into ash beyond hope.
 Legends Say:
-If her flame is ever released, it will ignite a second cleansing of Elyndros, destroying all corruption in the world.
+If her flame is ever released, it will ignite a second cleansing of Thalindor, destroying all corruption in the world.
 However, those who are burned by her flame would be lost forever, unable to be resurrected.
 
 ---
 7. The Cradleborn King
-Domain: Fate, Royalty, World-Breaking ChangeStatus: Dormant, only known in prophecyNature: A figure of royal blood whose birth will signify the end of all thrones.Description:The Cradleborn King is a figure from ancient prophecy, said to be born of war and fate itself. He is believed to be destined to bring an end to all dynasties and change the course of history, for better or for worse. No one knows who or what he is, only that his birth will coincide with a time of great upheaval in Elyndros.
+Domain: Fate, Royalty, World-Breaking ChangeStatus: Dormant, only known in prophecyNature: A figure of royal blood whose birth will signify the end of all thrones.Description:The Cradleborn King is a figure from ancient prophecy, said to be born of war and fate itself. He is believed to be destined to bring an end to all dynasties and change the course of history, for better or for worse. No one knows who or what he is, only that his birth will coincide with a time of great upheaval in Thalindor.
 Legends Say:
-The Cradleborn King will either unite the fractured factions of Elyndros or tear the world asunder.
+The Cradleborn King will either unite the fractured factions of Thalindor or tear the world asunder.
 His rise will mark the dawn of a new age, but no one knows whether it will be one of salvation or destruction.
 
 ## The Defeat of dormant character
@@ -63,7 +63,7 @@ Plot Twist:Zorathar, in an unlikely move, might intervene, using its seismic pow
 ---
 2. Iridessa the Mourning Flame
 Defeated/Sealed By: The Celestium Pact or Choir of Ash, using ancient rites of purification.
-Scenario:Iridessa’s flame could be extinguished or bound again by the Celestium Pact, who seek to prevent the rebirth of the destructive fire she represents. After her long dormant period, she may be awakened when a great tragedy strikes Elyndros—perhaps a devastating war or the death of a revered leader. The Choir of Ash, remembering their sacred duty to safeguard the flames, may attempt to bind her again through fire rituals that would purge her curse from the world, potentially using a weapon such as the Inverted Spear of Heaven to nullify her destructive power.
+Scenario:Iridessa’s flame could be extinguished or bound again by the Celestium Pact, who seek to prevent the rebirth of the destructive fire she represents. After her long dormant period, she may be awakened when a great tragedy strikes Thalindor—perhaps a devastating war or the death of a revered leader. The Choir of Ash, remembering their sacred duty to safeguard the flames, may attempt to bind her again through fire rituals that would purge her curse from the world, potentially using a weapon such as the Inverted Spear of Heaven to nullify her destructive power.
 Plot Twist:Doki, unknowingly drawn into this ritual, could become a pawn in the celestial game, forced to help by unwittingly carrying a fragment of Iridessa’s flame within him. His potential to wield both destruction and purification would make him a key figure in either sealing her flame or setting her free.
 
 ---
@@ -81,8 +81,8 @@ Plot Twist:The Abyssal Conflux may see the Pale Choir’s return as a threat to 
 ---
 5. Varnax the Nullbrand
 Defeated/Sealed By: Ferrumkin (possibly by the Wyrmcoil Pact or Zorathar).
-Scenario:Varnax’s anti-magic aura could be neutralized by the Ferrumkin who once betrayed him, or a powerful force like Zorathar. The Ferrumkin may fear Varnax’s return, as it would render their advanced technology and magical abilities useless. As the realm of Elyndros braces for his awakening, the Wyrmcoil Pact might have a vested interest in ensuring Varnax stays sealed, seeing him as an obstacle to their ultimate goal of harnessing dragonkind’s power. Zorathar, in his role as protector of natural balance, may intervene directly if Varnax threatens to throw the natural world into chaos, using his seismic powers to contain Varnax’s influence.
-Plot Twist:Doki may unknowingly break Varnax’s seals by triggering a sequence of events linked to his own Heavenly Restriction abilities. His interaction with a Ferrumkin artifact could inadvertently unravel the anti-magic seals, causing a catastrophic shift in Elyndros’s arcane balance.
+Scenario:Varnax’s anti-magic aura could be neutralized by the Ferrumkin who once betrayed him, or a powerful force like Zorathar. The Ferrumkin may fear Varnax’s return, as it would render their advanced technology and magical abilities useless. As the realm of Thalindor braces for his awakening, the Wyrmcoil Pact might have a vested interest in ensuring Varnax stays sealed, seeing him as an obstacle to their ultimate goal of harnessing dragonkind’s power. Zorathar, in his role as protector of natural balance, may intervene directly if Varnax threatens to throw the natural world into chaos, using his seismic powers to contain Varnax’s influence.
+Plot Twist:Doki may unknowingly break Varnax’s seals by triggering a sequence of events linked to his own Heavenly Restriction abilities. His interaction with a Ferrumkin artifact could inadvertently unravel the anti-magic seals, causing a catastrophic shift in Thalindor’s arcane balance.
 
 ---
 6. Seralya the First Flame
@@ -93,5 +93,5 @@ Plot Twist:Doki, drawn by his connection to Zorathar and the arcane relics he ca
 ---
 7. The Cradleborn King
 Defeated/Sealed By: Aurum Circle, Verdant Oath, or Doki.
-Scenario:The Cradleborn King is a figure of both prophecy and destiny, and his birth could be manipulated by the powers of Aurum Circle to either ascend him to the throne of Elyndros or crush him before he can rise. The Verdant Oath might see his emergence as an existential threat to nature and balance, seeking to prevent his rule by any means necessary. If the Cradleborn King is born in the middle of a great war, Doki might find himself caught in the conflict over his fate, potentially siding with or against him depending on which faction can best exploit the king’s power.
-Plot Twist:In a shocking turn, Zorathar may awaken at the exact moment of the Cradleborn King’s birth, seeing his rise as a disruption to the world’s natural balance. Zorathar might directly intervene, setting the stage for an apocalyptic conflict that could reshape Elyndros forever.
+Scenario:The Cradleborn King is a figure of both prophecy and destiny, and his birth could be manipulated by the powers of Aurum Circle to either ascend him to the throne of Thalindor or crush him before he can rise. The Verdant Oath might see his emergence as an existential threat to nature and balance, seeking to prevent his rule by any means necessary. If the Cradleborn King is born in the middle of a great war, Doki might find himself caught in the conflict over his fate, potentially siding with or against him depending on which faction can best exploit the king’s power.
+Plot Twist:In a shocking turn, Zorathar may awaken at the exact moment of the Cradleborn King’s birth, seeing his rise as a disruption to the world’s natural balance. Zorathar might directly intervene, setting the stage for an apocalyptic conflict that could reshape Thalindor forever.
