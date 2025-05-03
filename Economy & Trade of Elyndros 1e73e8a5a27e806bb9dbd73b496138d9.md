@@ -1,4 +1,4 @@
-# Economy & Trade of Elyndros
+# Economy & Trade of Thalindor
 
 Owner: Phntm Drknss
 
@@ -9,18 +9,18 @@ Exotic Beasts & Creatures: Some regions, like the Veins of Gaia, offer unique ma
 Elemental Crystals: Rare crystals that harness elemental forces, such as fire, earth, and water, are valuable for magic-users and technologists alike.
 
 2. Major Trade Routes:
-The Shattered Roads: A network of ancient trade routes that stretch across Elyndros, though treacherous, they are the primary connection between many of the world’s great cities and regions.
+The Shattered Roads: A network of ancient trade routes that stretch across Thalindor, though treacherous, they are the primary connection between many of the world’s great cities and regions.
 Aetherian Trade Arcs: Special trading routes maintained by the Aurum Circle to transport magical goods, rare artifacts, and souls used in alchemy and spellcraft.
 Volcanic Corridors: Hidden paths that pass through the Ashveil Ranges, often used by those who seek rare metals or fire-based magical items.
 
 3. Key Trading Hubs:
-Ironlace Metropolis: The industrial heart of Elyndros, a hub for machinery, black market deals, and arcane technology. It's the main source of manufactured goods, mechanical innovations, and industrial commodities.
+Ironlace Metropolis: The industrial heart of Thalindor, a hub for machinery, black market deals, and arcane technology. It's the main source of manufactured goods, mechanical innovations, and industrial commodities.
 Seraphine Isles: A floating haven known for its religious offerings, celestial artifacts, and divine services. Its trade is often centered around rare religious texts, blessed items, and potions made from celestial elements.
 The Veins of Gaia: The living jungle, home to many exotic plants, creatures, and powerful natural resources. Trade here often involves magical flora, fauna, and powerful root-based magics.
 Hollowreach Abyss: Though dark and dangerous, Hollowreach’s underground markets offer forbidden magic, infernal contracts, and strange relics that have been stolen or unearthed from the depths.
 
 4. Currency and Trade System:
-Soul-Infused Coins: The primary currency used across all of Elyndros. These coins hold power and can be used for alchemical trade, fueling magic, and even functioning as a means of magical exchange between regions. They are universally accepted in all areas, ensuring consistent trade across the world.
+Soul-Infused Coins: The primary currency used across all of Thalindor. These coins hold power and can be used for alchemical trade, fueling magic, and even functioning as a means of magical exchange between regions. They are universally accepted in all areas, ensuring consistent trade across the world.
 Crystal Shards: While Soul-Infused Coins dominate, Crystal Shards are also a common form of currency in regions like Seraphine Isles or Ironlace Metropolis, particularly when dealing with elemental goods, energy-based trade, or magic.
 Barter System: In more remote or lawless regions, a barter system is still used. People may trade goods like livestock, raw materials, or magical services, especially in places like the Verdant Oath territory or Voidsteppes.
 
