@@ -1,4 +1,4 @@
-# Notable Organizations and Clans in Elyndros
+# Notable Organizations and Clans in Thalindor
 
 Owner: Phntm Drknss
 
@@ -7,7 +7,7 @@ Owner: Phntm Drknss
 - **Type**: Assassin Guild / Secretive Clan
 - **Race**: Umbrin (Shadow-bound)
 - **Leader**: Mistress Velae (Leader, Wielder of Shadows)
-- **Overview**: The **Crimson Veil** is a legendary network of assassins and spies that operates in the shadows of Elyndros. Known for their deadly precision and ability to blend seamlessly into the darkness, the Crimson Veil is often hired by the highest bidder to eliminate political rivals, steal critical information, or disrupt enemy organizations. The Umbrin members of the clan are born with the natural ability to manipulate shadows, making them masters of stealth and subterfuge.
+- **Overview**: The **Crimson Veil** is a legendary network of assassins and spies that operates in the shadows of Thalindor. Known for their deadly precision and ability to blend seamlessly into the darkness, the Crimson Veil is often hired by the highest bidder to eliminate political rivals, steal critical information, or disrupt enemy organizations. The Umbrin members of the clan are born with the natural ability to manipulate shadows, making them masters of stealth and subterfuge.
 - **Key Beliefs**: They adhere to the philosophy that **power** is achieved through **silence**, **subterfuge**, and **manipulation**. To them, the world operates in the shadows, and those who control the darkness control reality.
 - **Notable Traditions**:
     - **The Silent Mark**: An initiation rite where an initiate must assassinate a target without leaving a trace. Success grants them full membership, failure means death.
@@ -63,7 +63,7 @@ Owner: Phntm Drknss
 - **Type**: Lorekeepers / Knowledge Keepers
 - **Race**: Humans, Aetherials, and other scholars
 - **Leader**: Archivist Enmara the Enlightened
-- **Overview**: The **Hollowlight Archive** is a vast and ancient institution dedicated to the collection, preservation, and dissemination of knowledge. The Archive's members, known as **Archivists**, scour the world for lost lore, rare books, and forgotten secrets. They believe that **knowledge** is the greatest weapon in Elyndros and that those who control knowledge control the fate of the world.
+- **Overview**: The **Hollowlight Archive** is a vast and ancient institution dedicated to the collection, preservation, and dissemination of knowledge. The Archive's members, known as **Archivists**, scour the world for lost lore, rare books, and forgotten secrets. They believe that **knowledge** is the greatest weapon in Thalindor and that those who control knowledge control the fate of the world.
 - **Key Beliefs**: The Hollowlight Archive believes that **ignorance** is the root of most suffering and that by uncovering the truths of the world, they can bring about a better future. They are neutral in political conflicts, focusing only on the pursuit of wisdom.
 - **Notable Traditions**:
     - **The Seeker’s Path**: An initiation process where a candidate must embark on a dangerous journey to find and recover a lost piece of knowledge, proving their dedication to the pursuit of truth.
