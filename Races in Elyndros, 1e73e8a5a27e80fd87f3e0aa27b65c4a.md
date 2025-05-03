@@ -1,14 +1,14 @@
-# Races in Elyndros,
+# Races in Thalindor,
 
 Owner: Phntm Drknss
 
 # **Humans**
 
-### 🧭 **Humans of Elyndros**
+### 🧭 **Humans of Thalindor**
 
 ### 🌍 Distribution
 
-Humans are the most **numerous and widely spread** race in Elyndros. Unlike many other species, they adapt rapidly to nearly any environment — from the burning spires of the Ashveil Ranges to the drifting cities of the Seraphine Isles.
+Humans are the most **numerous and widely spread** race in Thalindor. Unlike many other species, they adapt rapidly to nearly any environment — from the burning spires of the Ashveil Ranges to the drifting cities of the Seraphine Isles.
 
 ### 🧬 Traits
 
@@ -51,7 +51,7 @@ You could break them into subtypes like:
 
 ### 🌍 Distribution
 
-Primarily found in the **Veins of Gaia** — a colossal, semi-sentient jungle — but pockets exist in enchanted forests, sacred groves, and world-root sanctuaries across Elyndros.
+Primarily found in the **Veins of Gaia** — a colossal, semi-sentient jungle — but pockets exist in enchanted forests, sacred groves, and world-root sanctuaries across Thalindor.
 
 ### 🌱 Physiology & Traits
 
@@ -414,7 +414,7 @@ They value:
 
 ### **Distribution**
 
-Deepborn dwell beneath the oceans, especially in the **Drowned Spires**, **Tethyrian Trenches**, and sunken ruins of **Old Elyndros**. Some live in **semi-submerged coastal enclaves** or **travelling sea-cities** that drift across the tides.
+Deepborn dwell beneath the oceans, especially in the **Drowned Spires**, **Tethyrian Trenches**, and sunken ruins of **Old Thalindor**. Some live in **semi-submerged coastal enclaves** or **travelling sea-cities** that drift across the tides.
 
 ### **Physiology & Traits**
 
@@ -494,7 +494,7 @@ They cherish:
 
 ### **Distribution**
 
-Wyrmblooded are spread across volcanic strongholds, sky-piercing mountains, and war-torn battlefields. Their strongholds include **Drakenvault Peaks**, **Ashveil Ranges**, and ancient draconic ruins scattered through **Elyndros**.
+Wyrmblooded are spread across volcanic strongholds, sky-piercing mountains, and war-torn battlefields. Their strongholds include **Drakenvault Peaks**, **Ashveil Ranges**, and ancient draconic ruins scattered through **Thalindor**.
 
 ### **Physiology & Traits**
 
@@ -530,4 +530,4 @@ They value:
 - **Emberborn**: Feral warriors who erupt into fire or scale-clad berserkers.
 - **Veilclaws**: Stealthy wyrmbloods who blend shadow and flame, often spies or assassins.
 
-[Culture in Elyndros](Culture%20in%20Elyndros%201e73e8a5a27e8026a5fde3dff8983f6b.md)
+[Culture in Thalindor](Culture%20in%20Thalindor%201e73e8a5a27e8026a5fde3dff8983f6b.md)
