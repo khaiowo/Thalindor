@@ -1,4 +1,4 @@
-# Culture in Elyndros
+# Culture in Thalindor
 
 Owner: Phntm Drknss
 
