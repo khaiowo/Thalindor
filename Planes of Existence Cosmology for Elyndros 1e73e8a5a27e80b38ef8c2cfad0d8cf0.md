@@ -1,10 +1,10 @@
-# Planes of Existence / Cosmology for Elyndros
+# Planes of Existence / Cosmology for Thalindor
 
 Owner: Phntm Drknss
 
-### **1. The Mortal Plane (Elyndros)**
+### **1. The Mortal Plane (Thalindor)**
 
-- **The World of Elyndros**: The physical, mortal plane where the majority of life exists. It is a fragmented landmass created by the **Shattering**, a catastrophe that split the original world into its current form. Magic, nature, and divine influences all shape the geography, history, and civilizations here.
+- **The World of Thalindor**: The physical, mortal plane where the majority of life exists. It is a fragmented landmass created by the **Shattering**, a catastrophe that split the original world into its current form. Magic, nature, and divine influences all shape the geography, history, and civilizations here.
 
 ---
 
@@ -36,7 +36,7 @@ Owner: Phntm Drknss
 
 ### **4. The Void**
 
-- **The Void**: A realm that exists outside of the known reality, an emptiness that devours both time and space. It is a place where **reality becomes fractured** and the laws of nature no longer apply. The **Voidsteppes**, a region of Elyndros, is closely linked to this realm, where time itself can shift unpredictably.
+- **The Void**: A realm that exists outside of the known reality, an emptiness that devours both time and space. It is a place where **reality becomes fractured** and the laws of nature no longer apply. The **Voidsteppes**, a region of Thalindor, is closely linked to this realm, where time itself can shift unpredictably.
     - **Notable Features**:
         - **The Shifting Wastes**: A chaotic, unstable region where time loops and twists. Those who enter often lose their memories or emerge as different people entirely.
         - **The Maw of Eternity**: A black hole-like structure that is a gateway to the Void, often used by dark sorcerers and entities to escape into its endless abyss.
@@ -79,5 +79,5 @@ Owner: Phntm Drknss
 ### **Cosmic Relationships and Dynamics**
 
 - **Balance of Power**: The **Celestial Realms** and the **Abyss** are in a constant tug-of-war for influence over the mortal realm. Their battles manifest in wars, divine interventions, and even catastrophic events like the **Shattering**.
-- **Divine Influence**: Gods from various planes often intervene directly in Elyndros' affairs, though they do so in different ways. Some, like the **Seraphim**, actively protect mortals, while others, like those from the **Abyssal Conflux**, try to sow chaos and destruction.
+- **Divine Influence**: Gods from various planes often intervene directly in Thalindor' affairs, though they do so in different ways. Some, like the **Seraphim**, actively protect mortals, while others, like those from the **Abyssal Conflux**, try to sow chaos and destruction.
 - **Cross-Plane Travel**: Certain powerful individuals or artifacts, like the **Split Soul Katana**, can bridge the gap between planes, either through ritual magic or inherent properties that allow them to tear through the fabric of reality.
