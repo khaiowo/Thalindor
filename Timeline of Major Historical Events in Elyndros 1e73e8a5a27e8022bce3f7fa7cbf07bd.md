@@ -1,19 +1,19 @@
-# Timeline of Major Historical Events in Elyndros
+# Timeline of Major Historical Events in Thalindor
 
 Owner: Phntm Drknss
 
 ### **1. The Age of Origins (Prehistory - 10,000 years ago)**
 
-- **The Shattering of Elyndros**: A catastrophic event that fractured the original, unified world of Elyndros. Massive tectonic upheavals, magical experiments gone wrong, and divine battles split the world into its present form. Continents were torn apart, and ancient civilizations were buried in the rubble.
-- **The Emergence of Primordial Beasts**: The **Titans**, **Kaiju**, and other ancient creatures were awakened as a result of the Shattering. They were created by the primal forces of Elyndros itself and still remain as protectors or destroyers of the land.
-- **Rise of the First Gods**: The early gods of Elyndros emerged from the **Aether**, the energy source of all magic. These deities were largely concerned with shaping the natural world and interacting with the early mortals who arose after the Shattering.
+- **The Shattering of Thalindor**: A catastrophic event that fractured the original, unified world of Thalindor. Massive tectonic upheavals, magical experiments gone wrong, and divine battles split the world into its present form. Continents were torn apart, and ancient civilizations were buried in the rubble.
+- **The Emergence of Primordial Beasts**: The **Titans**, **Kaiju**, and other ancient creatures were awakened as a result of the Shattering. They were created by the primal forces of Thalindor itself and still remain as protectors or destroyers of the land.
+- **Rise of the First Gods**: The early gods of Thalindor emerged from the **Aether**, the energy source of all magic. These deities were largely concerned with shaping the natural world and interacting with the early mortals who arose after the Shattering.
 
 ---
 
 ### **2. The Age of Ascendancy (10,000 - 6,000 years ago)**
 
 - **The Founding of the Celestium Pact**: The first divine order, the **Celestium Pact**, was formed under the guidance of **Lirael Sunborne**, the Archon. This group sought to establish divine rule and foster order across the fractured land.
-- **The War of the Gods**: A bitter conflict broke out between the **Celestium Pact** and the **Abyssal Conflux**, as different factions of gods and their followers sought to control Elyndros. The war caused massive magical upheavals, nearly destroying entire regions.
+- **The War of the Gods**: A bitter conflict broke out between the **Celestium Pact** and the **Abyssal Conflux**, as different factions of gods and their followers sought to control Thalindor. The war caused massive magical upheavals, nearly destroying entire regions.
 - **The First Unified Kingdoms**: Amidst the chaos, mortals managed to forge some semblance of unity. The first **Human Kingdoms** and **Sylvani Monarchies** arose, establishing powerful cities like **Ironlace Metropolis** and **Frostmourne Tundra**. These early kingdoms often fought each other for territory and resources, but they also began forging alliances, which would later shape the political landscape.
 
 ---
@@ -38,5 +38,5 @@ Owner: Phntm Drknss
 
 - **The Formation of the Eight Great Factions**: The fractured world began to stabilize, leading to the formation of the **Eight Great Factions**. Each faction, such as the **Verdant Oath**, **Shardbound Covenant**, and **Hollowlight Archive**, pursued its own goals of power, influence, or knowledge. Tensions between these factions often lead to skirmishes and wars.
 - **The Rise of the Chainsworn Circle**: The **Chainsworn Circle**, an infernal cult, rose to power in the dark corners of the world. They began summoning dangerous infernal creatures, creating a looming threat that the other factions must constantly contend with.
-- **Doki’s Rise as a Mercenary**: A notable figure in Elyndros' current age, **Doki**, a ruthless and skilled mercenary, has started to make waves. With his deadly combat prowess, unique abilities, and enigmatic origins, Doki has become a figure of both fear and admiration across the land.
-- **Current Struggles for Power**: Elyndros is in a delicate balance between peace and war. The **Celestium Pact** and **Abyssal Conflux** still hold sway over the gods and divine powers, while mortal factions and organizations like the **Hunters’ Accord** and **Verdant Oath** vie for control of regions rich in magic, resources, and ancient artifacts.
+- **Doki’s Rise as a Mercenary**: A notable figure in Thalindor' current age, **Doki**, a ruthless and skilled mercenary, has started to make waves. With his deadly combat prowess, unique abilities, and enigmatic origins, Doki has become a figure of both fear and admiration across the land.
+- **Current Struggles for Power**: Thalindor is in a delicate balance between peace and war. The **Celestium Pact** and **Abyssal Conflux** still hold sway over the gods and divine powers, while mortal factions and organizations like the **Hunters’ Accord** and **Verdant Oath** vie for control of regions rich in magic, resources, and ancient artifacts.
