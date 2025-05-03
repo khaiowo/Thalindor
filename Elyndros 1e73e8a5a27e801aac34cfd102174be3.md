@@ -1,4 +1,4 @@
-# Elyndros
+# Thalindor
 
 Owner: Phntm Drknss
 
