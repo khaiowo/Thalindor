@@ -1,2 +1,0 @@
-# Thalindor
-worldbuilding
